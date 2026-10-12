@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.Properties.Resources.resources
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\bin\Debug\ParcialProgramacion1.exe.config
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\bin\Debug\ParcialProgramacion1.exe
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\bin\Debug\ParcialProgramacion1.pdb
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.Form1.resources
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.exe
+C:\Users\rober\Desktop\PARCIAL 2\ParcialProgramacion1\ParcialProgramacion1\obj\Debug\ParcialProgramacion1.pdb
